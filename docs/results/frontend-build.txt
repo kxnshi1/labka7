@@ -1,0 +1,15 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> agromarket-react@0.0.0 build
+> vite build
+
+vite v8.3.4 building client environment for production...
+transforming...
+✓ 24 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.55 kB │ gzip:  0.34 kB
+dist/assets/index-C6UNvdod.css    3.90 kB │ gzip:  1.36 kB
+dist/assets/index-ClNNYG3I.js   229.40 kB │ gzip: 72.15 kB
+
+✓ built in 140ms

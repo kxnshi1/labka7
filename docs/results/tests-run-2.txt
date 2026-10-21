@@ -1,0 +1,23 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> agromarket-server@1.0.0 test
+> vitest run
+
+
+ RUN  v3.2.4 /workspace/scratch/2d057881311a/build8/AgroMarket_Lab8/agromarket-server
+
+Готово: таблицы созданы, товаров добавлено — 8
+ ✓ tests/auth.test.js (11 tests) 793ms
+ ✓ tests/access.test.js (12 tests) 234ms
+ ✓ tests/products.test.js (6 tests) 50ms
+ ✓ tests/rate-limit.test.js (1 test) 45ms
+ ✓ tests/health.test.js (2 tests) 26ms
+ ✓ tests/security.test.js (4 tests) 29ms
+ ✓ tests/middleware.test.js (7 tests) 9ms
+ ✓ tests/database-guard.test.js (6 tests) 5ms
+
+ Test Files  8 passed (8)
+      Tests  49 passed (49)
+   Start at  08:53:21
+   Duration  3.61s (transform 66ms, setup 156ms, collect 790ms, tests 1.19s, environment 1ms, prepare 374ms)
+
