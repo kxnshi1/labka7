@@ -1,0 +1,12 @@
+{
+  "products": [
+    {"id":1,"name":"Мёд алтайский","price":4500,"unit":"кг","image":"/images/honey.svg"},
+    {"id":2,"name":"Молоко фермерское","price":650,"unit":"л","image":"/images/milk.svg"},
+    {"id":3,"name":"Сыр домашний","price":5200,"unit":"кг","image":"/images/cheese.svg"},
+    {"id":4,"name":"Яблоки садовые","price":1200,"unit":"кг","image":"/images/apples.svg"},
+    {"id":5,"name":"Картофель молодой","price":550,"unit":"кг","image":"/images/potato.svg"},
+    {"id":6,"name":"Яйца деревенские","price":1800,"unit":"10 шт.","image":"/images/eggs.svg"},
+    {"id":7,"name":"Клубника свежая","price":3200,"unit":"кг","image":"/images/strawberry.svg"},
+    {"id":8,"name":"Мука цельнозерновая","price":900,"unit":"кг","image":"/images/flour.svg"}
+  ]
+}
