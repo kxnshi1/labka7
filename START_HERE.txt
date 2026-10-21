@@ -1,0 +1,14 @@
+ЛАБОРАТОРНАЯ 8 — ПОЛНЫЙ ПРОЕКТ
+
+1. Распакуйте архив в НОВУЮ папку.
+2. Откройте README.md — там результаты и картинки.
+3. Для тестов создайте в pgAdmin базу agromarket_test.
+4. В agromarket-server: npm ci.
+5. Скопируйте .env.test.example в .env.test и укажите свой пароль PostgreSQL.
+6. Выполните npm test и npm run coverage.
+7. Для React: в agromarket-react выполните npm ci и npm run build.
+
+Локально при подготовке: 49 тестов PASS (PGlite/WASM через TCP), Lines 94.75%, сборка React PASS.
+Нативный PostgreSQL и GitHub Actions нужно прогнать следующим этапом.
+GitHub PR, review и защита main ещё НЕ выполнены.
+Не запускайте db:init для рабочей базы с нужными данными — эта команда стирает таблицы.

@@ -1,0 +1,21 @@
+
+ DEV  v3.2.4 /workspace/scratch/2d057881311a/build8/AgroMarket_Lab8/agromarket-server
+
+Готово: таблицы созданы, товаров добавлено — 8
+ ✓ tests/health.test.js (2 tests) 28ms
+
+ Test Files  1 passed (1)
+      Tests  2 passed (2)
+   Start at  08:57:33
+   Duration  647ms (transform 67ms, setup 29ms, collect 173ms, tests 28ms, environment 0ms, prepare 51ms)
+
+ PASS  Waiting for file changes...
+       press h to show help, press q to quit
+c[3J RERUN  tests/health.test.js x1 
+        Filename pattern: tests/health.test.js
+
+ ✓ tests/health.test.js (2 tests) 27ms
+
+ Test Files  1 passed (1)
+      Tests  2 passed (2)
+   Start at  08:57:34

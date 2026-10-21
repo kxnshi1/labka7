@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-21",
+  "node": "24.19.0",
+  "vitest": "3.2.4",
+  "database": "PGlite 0.5.10 via pglite-socket 0.2.13 TCP, native PostgreSQL not run",
+  "test_files": 8,
+  "tests_passed": 49,
+  "repeat_passed": true,
+  "unit_tests_passed": 13,
+  "coverage": {
+    "lines": {
+      "total": 286,
+      "covered": 271,
+      "skipped": 0,
+      "pct": 94.75
+    },
+    "statements": {
+      "total": 286,
+      "covered": 271,
+      "skipped": 0,
+      "pct": 94.75
+    },
+    "functions": {
+      "total": 6,
+      "covered": 5,
+      "skipped": 0,
+      "pct": 83.33
+    },
+    "branches": {
+      "total": 88,
+      "covered": 66,
+      "skipped": 0,
+      "pct": 75
+    },
+    "branchesTrue": {
+      "total": 0,
+      "covered": 0,
+      "skipped": 0,
+      "pct": 100
+    }
+  },
+  "admin_only_mutation_failed_tests": 3,
+  "frontend_build": "passed",
+  "github_actions": "not run"
+}
